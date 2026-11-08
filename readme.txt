@@ -108,8 +108,7 @@ No. Everything is configured per embed, on the block or the shortcode.
 
 == Screenshots ==
 
-1. A PDF embedded inline in a post, fitted to the content width.
-2. The block sidebar with height, toolbar, and accessible-title controls.
+1. A PDF embedded inline in a post, shown in the browser's built-in viewer.
 
 == Changelog ==
 
